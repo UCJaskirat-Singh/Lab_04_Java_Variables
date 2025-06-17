@@ -40,5 +40,19 @@ public class Main {
         public static void main(String[] args) {
 
         }
+        int numberOfCars = 3;
+
+        boolean isHailing = false;
+
+        double packPokemonCost = 7.50;
+
+        String favoriteColor = "red";
+
+        double burgerMcdonaldPrice = 4.99;
+
+        String fathersBirthMonth = "June";
+
+        boolean amHungry = false;
+
     }
 

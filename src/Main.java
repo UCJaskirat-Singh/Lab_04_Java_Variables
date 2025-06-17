@@ -25,7 +25,6 @@ public class Main {
         System.out.println("The Product using ints of " + intOperandA + " " + intOperandB + " is " + intProduct);
         intModulo = intOperandA % intOperandB;
         System.out.println("The Modulo using ints of " + intOperandA + " " + intOperandB + " is " + intModulo);
-        // double
         doubleSum = doubleOperandA + doubleOperandB;
         System.out.println("The Double Sum using ints of " + doubleOperandA + " " + doubleOperandB + " is " + doubleSum);;
         doubleDifference = doubleOperandA - doubleOperandB;
